@@ -1,2 +1,2 @@
-# AI-controlled-VM
-Logged data for my Artificial intelligence controller virtual machine.
+# AI-Controlled-VM
+Logged data for my Artificial Intelligence-controlled Virtual Machine.
